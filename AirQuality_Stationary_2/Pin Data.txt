@@ -1,0 +1,7 @@
+DHT11 9
+Status-LED 13
+Switch 6
+DUST 10
+SO2 A2
+GPS Rx,Tx (8,7)
+GSM 3,4
